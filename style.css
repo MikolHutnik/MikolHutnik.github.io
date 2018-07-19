@@ -4,7 +4,7 @@ body {
     margin: 0;
     font-family: 'Galada', cursive;
     background: rgb(32, 32, 32);
-    color: rgb(101, 240, 9);
+    color: rgb(98, 193, 34);
     font-size: 1.1em;
     line-height: 1.5em;
     text-align: center;
@@ -50,7 +50,7 @@ header h1 {
 
 #showcase {
     min-height: 450px;
-    color: rgb(101, 240, 9);
+    color: rgb(98, 193, 34);
     text-align: center;
 }
 
@@ -100,7 +100,7 @@ header h1 {
     #section-b li {
         margin: 1em;
         background: rgb(82, 81, 81);
-        color: rgb(101, 240, 9);
+        color: rgb(98, 193, 34);
     }
 
 .card-content {
@@ -112,7 +112,7 @@ header h1 {
 #section-c {
     display: flex;
     background: #666;
-    color: rgb(101, 240, 9);
+    color: rgb(98, 193, 34);
     padding: 2em;
 }
 
@@ -125,7 +125,7 @@ header h1 {
 
 #section-d .box {
     padding: 2em;
-    color: rgb(101, 240, 9);
+    color: rgb(98, 193, 34);
 }
 
     #section-d .box:first-child {
@@ -143,7 +143,7 @@ header h1 {
 #main-footer {
     display: flex;
     padding: 2em;
-    background: rgb(103, 61, 114);
+    background: rgb(98, 193, 34);
     text-align: center;
     flex-direction: column;
     justify-content: center;
